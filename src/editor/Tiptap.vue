@@ -93,6 +93,7 @@ button {
   border-radius: 10px;
   font-size: 1.3rem;
   transition: 0.2s all;
+  min-width: 5rem;
 }
 button:hover {
   cursor: pointer;
